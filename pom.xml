@@ -8,17 +8,17 @@
 
   <name>mvn</name>
   <url>http://maven.apache.org</url>
-
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
-  <scm>
+ <scm>
 		<url>https://github.com/bharath12b5/mvn1.git</url>
 		<connection>scm:https://github.com/bharath12b5/mvn1.git</connection>
 		<developerConnection>scm:git:https://github.com/bharath12b5/mvn1.git</developerConnection>
 	  <tag>HEAD</tag>
   </scm>
 
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+ 
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
