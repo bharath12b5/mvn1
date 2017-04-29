@@ -13,6 +13,12 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+  <scm>
+		<url>https://github.com/bharath12b5/mvn1.git</url>
+		<connection>scm:https://github.com/bharath12b5/mvn1.git</connection>
+		<developerConnection>scm:git:https://github.com/bharath12b5/mvn1.git</developerConnection>
+	  <tag>HEAD</tag>
+  </scm>
 
   <dependencies>
     <dependency>
